@@ -34,3 +34,6 @@ ant run
 
 ## Notes
 If the UI does not appear, build the project first or ensure you are running from a Java installation on your PATH.
+
+## Credits
+This project was successfully delivered by a development team including [Raihanul Hasan](https://github.com/raihanul-24), who contributed to the overall system architecture and collaborated on core implementation.
